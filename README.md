@@ -6,7 +6,7 @@ I am a **Software Engineer** specializing in the **programmatic integration of A
 
 ### 👨🏾‍💻 About Me
 
-- 🎓 **Education:** Graduate Student in Economics and Management at The University Of Manitoba
+- 🎓 **Education:** Graduate Student in Economics and Computer Science at The University Of Manitoba
 - 🔭 **Focus:** Building scalable AI-driven applications and secure systems.
 - 💼 **Specialization:** Programmatic AI integration, Data Analysis, and Full-Stack Engineering.
 - 🌐 **Goal:** To create reliable software that leverages data for decision-making.
