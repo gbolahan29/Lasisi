@@ -1,4 +1,4 @@
-# Hi there, I'm Gbolahan 👋🏾
+# Hi there, I'm Gbolahan👋🏾
 
 I am a **Software Engineer** specializing in the **programmatic integration of AI** into existing products. I am dedicated to building scalable, reliable, and secure solutions that bridge the gap between complex data and user-friendly software.
 
